@@ -1,0 +1,1 @@
+/home/tracking/work/git/caffe/build/examples/cpp_classification/classification.bin deploy.prototxt snapshot/action_iter_6000.caffemodel /home/tracking/work/git/caffe/data/actionTrain/trainMean.binaryproto label.txt test.jpg

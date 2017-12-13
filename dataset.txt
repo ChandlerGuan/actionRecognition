@@ -1,0 +1,15 @@
+0	normal
+1	speak,smile
+2	drowsy,sleep
+3	nod
+4	turn left
+5	turn right
+6	watch rearview
+7	turn to back seat
+8	hands off wheel
+9	smoke
+10	drink
+11	eat
+12	make phone call
+13	watch telephone
+14	others
