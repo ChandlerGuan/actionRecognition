@@ -1,0 +1,14 @@
+net: "/home/tracking/work/src/action/action_net_bn.pt"
+base_lr: 0.001
+test_iter: 30
+test_interval: 10
+lr_policy: "fixed"
+gamma: 0.1
+stepsize: 400
+display: 1
+max_iter: 6000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 1000
+snapshot_prefix: "/home/tracking/work/src/action/snapshot/action_bn"
+solver_mode: GPU
