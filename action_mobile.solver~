@@ -1,0 +1,15 @@
+net: "/home/tracking/work/src/action/action_mobile.pt"
+base_lr: 0.005
+iter_size: 2
+test_iter: 30
+test_interval: 200
+lr_policy: "poly"
+gamma: 0.1
+stepsize: 400
+display: 1
+max_iter: 30000
+momentum: 0.9
+weight_decay: 0.0005
+snapshot: 1000
+snapshot_prefix: "/home/tracking/work/src/action/snapshot/action_mobile"
+solver_mode: GPU
